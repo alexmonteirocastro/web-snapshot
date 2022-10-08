@@ -1,0 +1,6 @@
+*.png
+.idea
+*.log
+__pycache__/
+hello.py
+main.py
